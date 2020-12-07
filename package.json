@@ -1,0 +1,19 @@
+{
+  "name": "yt_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
